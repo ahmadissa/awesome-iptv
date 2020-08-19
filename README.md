@@ -50,7 +50,7 @@ Applications with support of IPTV streams.
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
 #### Web
-
+- [IPTV Search](https://iptvchannels.web.app/) - VueJS application that search all IPTV channels, by country, category and name
 - [Jackal](https://jackal.netlify.app) - React application that list all IPTV channels and feature to play these streams, allow users to stream external M3U8 URL.
 
 ## Providers
